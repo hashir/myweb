@@ -1,0 +1,11 @@
+cache/*
+log/*
+lib/vendor/*
+data/*
+web/uploads/*
+nbproject/*
+config/databases.yml
+*.settings
+*.buildpath
+*.project
+*DS_Store

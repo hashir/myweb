@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file original="apostrophe" source-language="en_US" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>Username or email</source>
+                <target>Nome de login ou e-mail</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Password</source>
+                <target>Senha</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

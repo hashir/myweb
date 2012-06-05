@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+    <file original="apostrophe" source-language="en_US" datatype="plaintext">
+        <body>
+            <trans-unit id="1">
+                <source>Forgot your password?</source>
+                <target>Esqueceu sua senha?</target>
+            </trans-unit>
+            <trans-unit id="2">
+                <source>Want to register?</source>
+                <target>Quer se cadastrar?</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
