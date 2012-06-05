@@ -99,15 +99,15 @@
 	</div>
 </div>
             </div>
-	<?php if (has_slot('a-footer')): ?>
-	  <?php include_slot('a-footer') ?>
-	<?php else: ?>
+	<?php //if (has_slot('a-footer')): ?>
+	  <?php //include_slot('a-footer') ?>
+	<?php //else: ?>
 		<div class='a-footer-wrapper clearfix'>
 			<div class='a-footer clearfix'>
 	  	  <?php include_partial('a/footer') ?>
 			</div>
 		</div>
-	<?php endif ?>	
+	<?php //endif ?>	
 
 	<?php include_partial('a/googleAnalytics') ?>
 	
@@ -120,9 +120,6 @@
     $(document).ready(function(){
         
         $('#menu ul').removeClass('a-nav a-nav-main tabs nav-depth-0 clearfix ui-sortable');
-        $('#sub-nav div').removeClass('a-ui a-subnav-wrapper');
-        if(window.location=='http://apostrophe.local/'){
-            window.location.href='http://apostrophe.local/about-me';
-        }
+        $('#sub-nav div').removeClass('a-ui a-subnav-wrapper');        
     });
 </script>

@@ -38,7 +38,7 @@ default:
 
 homepage:
   url:  /
-  param: { module: a, action: show, slug: / }
+  param: { module: a, action: show, slug: /gallery }
 
 # Put any routing rules for other modules and actions HERE,
 # before the catch-all rule that routes URLs to the
